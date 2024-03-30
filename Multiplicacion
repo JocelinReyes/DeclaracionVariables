@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main( )
+{
+int multiplicador1; //se definen como un entero 
+int multiplicandor2; 
+int res; 
+multiplicador1 = 1000; //se asignan valores
+multiplicandor2=2;
+res=multiplicador1*multiplicandor2;
+printf("Resultado =%d\n",res); //se muestra el resultado
+return 0;
+}
