@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main( ) {
 int multiplicador1, multiplicandor2;
-multiplicador1 =1000;
+multiplicador1   =   1000;     
 multiplicandor2=2;
 printf("Resultado = %d\n", multiplicador1*multiplicandor2);
 return 0;
