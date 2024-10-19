@@ -7,6 +7,6 @@ int res;
 multiplicador1 = 1000; //se asignan valores
 multiplicandor2=2;
 res=multiplicador1*multiplicandor2;
-printf("Resultado =%d\n",res); //se muestra el resultado
+printf("Resultado =%d\n",res); //se muestra el resultado dado
 return 0;
 }
