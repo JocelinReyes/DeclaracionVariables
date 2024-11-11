@@ -3,6 +3,6 @@ int main( ) {
 int multiplicador1, multiplicandor2;//declaración de variables 
 multiplicador1   =   1000;     
 multiplicandor2=2;
-printf("Resultado = %d\n", multiplicador1*multiplicandor2);
+printf("Resultado = %d\n", multiplicador1*multiplicandor2); //resultado 
 return 0;
 }
