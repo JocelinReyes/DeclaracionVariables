@@ -3,7 +3,7 @@ int main() {
 double d , e , f = 2.33 ;
 int i = 6 ;
 e = f * i ; 
-printf( "Resultado = %f\n", e);// mostramos el resultado dado
+printf( "Resultado = %f\n", e);// mostramos el resultado dado en el procedimiento 
 d = (int) ( f * i ) ; 
 printf( "Resultado = %f\n", d);
 d = (int) f * i ; 
