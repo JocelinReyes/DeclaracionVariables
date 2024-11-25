@@ -5,7 +5,7 @@ int i = 6 ;
 e = f * i ; 
 printf( "Resultado = %f\n", e);// mostramos el resultado dado en el procedimiento 
 d = (int) ( f * i ) ; 
-printf( "Resultado = %f\n", d);
+printf( "Resultado = %f\n", d);//resultado 
 d = (int) f * i ; 
 printf( "Resultado = %f\n", d);
 return 0;
